@@ -1,0 +1,14 @@
+/home/catarina8bits/MenorCaminhoint/bin/Debug/net8.0/MenorCaminhoint
+/home/catarina8bits/MenorCaminhoint/bin/Debug/net8.0/MenorCaminhoint.deps.json
+/home/catarina8bits/MenorCaminhoint/bin/Debug/net8.0/MenorCaminhoint.runtimeconfig.json
+/home/catarina8bits/MenorCaminhoint/bin/Debug/net8.0/MenorCaminhoint.dll
+/home/catarina8bits/MenorCaminhoint/bin/Debug/net8.0/MenorCaminhoint.pdb
+/home/catarina8bits/MenorCaminhoint/obj/Debug/net8.0/MenorCaminhoint.GeneratedMSBuildEditorConfig.editorconfig
+/home/catarina8bits/MenorCaminhoint/obj/Debug/net8.0/MenorCaminhoint.AssemblyInfoInputs.cache
+/home/catarina8bits/MenorCaminhoint/obj/Debug/net8.0/MenorCaminhoint.AssemblyInfo.cs
+/home/catarina8bits/MenorCaminhoint/obj/Debug/net8.0/MenorCaminhoint.csproj.CoreCompileInputs.cache
+/home/catarina8bits/MenorCaminhoint/obj/Debug/net8.0/MenorCaminhoint.dll
+/home/catarina8bits/MenorCaminhoint/obj/Debug/net8.0/refint/MenorCaminhoint.dll
+/home/catarina8bits/MenorCaminhoint/obj/Debug/net8.0/MenorCaminhoint.pdb
+/home/catarina8bits/MenorCaminhoint/obj/Debug/net8.0/MenorCaminhoint.genruntimeconfig.cache
+/home/catarina8bits/MenorCaminhoint/obj/Debug/net8.0/ref/MenorCaminhoint.dll
